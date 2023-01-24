@@ -143,12 +143,12 @@
           <input type="password" name="name" placeholder="Password">
           <select>
             <option value="course-type" selected>Course type*</option>
-            <option value="short-courses">Short courses</option>
+            <option value="short-courses">VIP devops</option>
             <option value="featured-courses">Featured courses</option>
-            <option value="undergraduate">Undergraduate</option>
-            <option value="diploma">Diploma</option>
-            <option value="certificate">Certificate</option>
-            <option value="masters-degree">Masters degree</option>
+            <option value="undergraduate">Undergraduate pythonrenne</option>
+            <option value="diploma">Diploma del devops</option>
+            <option value="certificate">Certificate Devops</option>
+            <option value="masters-degree">Master Devops</option>
             <option value="postgraduate">Postgraduate</option>
           </select>
         </div>
