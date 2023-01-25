@@ -149,7 +149,7 @@
             <option value="diploma">Diploma del devops</option>
             <option value="certificate">Certificate Devops</option>
             <option value="masters-degree">Master Devops</option>
-            <option value="postgraduate">Postgraduate</option>
+            <option value="postgraduate">PostgraduateDEVOPS</option>
           </select>
         </div>
         <div class="checkbox">
